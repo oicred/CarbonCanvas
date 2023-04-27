@@ -2,6 +2,13 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.3",
     "@truffle/hdwallet-provider": "^2.1.9",
+    "@trufflesuite/web3-provider-engine": "^15.0.14",
     "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
   }
 }
